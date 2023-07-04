@@ -10,7 +10,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-My challenge was to build out this order summary card component and get it looking as close to the design as possible.
+My challenge was to build out this QR code component and get it looking as close to the design as possible.
 
 ## What i used?
 
